@@ -28,5 +28,23 @@
     "tailwindcss": "latest",
     "typescript": "latest",
     "vite": "latest"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/varunpbardwaj/v-stack-jrrttvz.git"
+  },
+  "keywords": [
+    "react",
+    "jotai",
+    "react query",
+    "react router",
+    "tailwind css",
+    "typescript",
+    "javascript",
+    "vite",
+    "zustand"
+  ],
+  "author": "Varun Bardwaj <varunbardwajp@gmail.com> (https://varunbardwaj.pages.dev/)",
+  "license": "MIT",
+  "homepage": "https://vstack.pages.dev/"
 }
